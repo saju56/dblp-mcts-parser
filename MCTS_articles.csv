@@ -1,0 +1,201 @@
+Title,Authors,Year
+"Factored MCTS for Large Scale Stochastic Planning.","Hao Cui 0003;Roni Khardon;Alan Fern;Prasad Tadepalli",2015
+"MCTS Based on Simple Regret.","David Tolpin;Solomon Eyal Shimony",2012
+"On Strength Adjustment for MCTS-Based Programs.","I-Chen Wu;Ti-Rong Wu;An-Jen Liu;Hung Guei;Ting-Han Wei",2019
+"Extracting Policies from Replays to Improve MCTS in Real Time Strategy Games.","Zuozhi Yang;Santiago Ontañón",2019
+"MCTS Experiments on the Voronoi Game.","Bruno Bouzy;Marc Métivier;Damien Pellier",2011
+"Towards a Solution of 7x7 Go with Meta-MCTS.","Cheng-Wei Chou;Ping-Chiang Chou;Hassen Doghmen;Chang-Shing Lee;Tsan-Cheng Su;Fabien Teytaud;Olivier Teytaud;Hui-Min Wang;Mei-Hui Wang;Li-Wen Wu;Shi-Jim Yen",2011
+"Strength Improvement and Analysis for an MCTS-Based Chinese Dark Chess Program.","Chu-Hsuan Hsueh;I-Chen Wu;Wen-Jie Tseng 0001;Shi-Jim Yen;Jr-Chang Chen",2015
+"MCTS with Dynamic Depth Minimax.","James Ji;Michael Thielscher",2023
+"An MCTS Program to Play EinStein Würfelt Nicht!","Richard J. Lorentz",2011
+"Early Playout Termination in MCTS.","Richard J. Lorentz",2015
+"Challenging AI: Evaluating the Effect of MCTS-Driven Dynamic Difficulty Adjustment on Player Enjoyment.","Simon Demediuk;Marco Tamassia;Xiaodong Li 0001;William L. Raffe",2019
+"Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings.","Sriram Ganapathi Subramanian;Mark Crowley 0001",2018
+"Evolutionary MCTS with Flexible Search Horizon.","Hendrik Baier;Peter I. Cowling",2018
+"MCTS Pruning in Turn-Based Strategy Games.","Yu-Jhen Hsu;Diego Perez Liebana",2020
+"Action Guidance with MCTS for Deep Reinforcement Learning.","Bilal Kartal;Pablo Hernandez-Leal;Matthew E. Taylor",2019
+"Single Believe State Generation for Handling Partial Observability with MCTS in StarCraft.","Alberto Uriarte;Santiago Ontañón",2017
+"Towards event-based MCTS for autonomous cars.","Nicola Catenacci Volpi;Yan Wu 0002;Dimitri Ognibene",2017
+"Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods.","Debraj Chakraborty 0002;Damien Busatto-Gaston;Jean-François Raskin;Guillermo A. Pérez 0001",2023
+"Combining Prediction of Human Decisions with ISMCTS in Imperfect Information Games.","Moshe Bitan;Sarit Kraus",2018
+"MCTS-based Automated Negotiation Agent.","Cédric L. R. Buron;Zahia Guessoum;Sylvain Ductor",2019
+"Structural Credit Assignment-Guided Coordinated MCTS: An Efficient and Scalable Method for Online Multiagent Planning.","Qian Che;Wanyuan Wang;Fengchen Wang;Tianchi Qiao;Xiang Liu;Jiuchuan Jiang;Bo An 0001;Yichuan Jiang",2023
+"Accelerating Neural MCTS Algorithms using Neural Sub-Net Structures.","Prashank Kadam;Ruiyang Xu;Karl J. Lieberherr",2023
+"MCTS/UCT in Solving Real-Life Problems.","Jacek Mandziuk",2018
+"An Imbalance Fault Detection Method for MCTs Using Voltage Signal.","Zhichao Li;Tianzhen Wang;Milu Zhang;Yide Wang;Demba Diallo",2019
+"Solving Virtual Network Mapping Fast by Combining Neural Network and MCTS.","Cong Wang 0009;Xiaoyang Chen;Yixin Luo;G. Q. Zhang",2021
+"Biasing MCTS with Features for General Games.","Dennis J. N. J. Soemers;Éric Piette;Cameron Browne",2019
+"MoHex 2.0: A Pattern-Based MCTS Hex Player.","Shih-Chieh Huang;Broderick Arneson;Ryan B. Hayward;Martin Müller 0003;Jakub Pawlewicz",2013
+"Evolutionary MCTS for Multi-Action Adversarial Games.","Hendrik Baier;Peter I. Cowling",2018
+"Guiding Multiplayer MCTS by Focusing on Yourself.","Hendrik Baier;Michael Kaisers",2020
+"EvoMCTS: Enhancing MCTS-based players through genetic programming.","Amit Benbassat;Moshe Sipper",2013
+"Position-based reinforcement learning biased MCTS for General Video Game Playing.","Chun Yin Chu;Suguru Ito;Tomohiro Harada;Ruck Thawonmas",2016
+"Investigating MCTS modifications in general video game playing.","Frederik Frydenberg;Kasper R. Andersen;Sebastian Risi;Julian Togelius",2015
+"Re-determinizing MCTS in Hanabi.","James Goodman",2019
+"MultiTree MCTS in Tabletop Games.","James Goodman;Diego Perez Liebana;Simon M. Lucas",2022
+"MCTS/EA hybrid GVGAI players and game difficulty estimation.","Hendrik Horn;Vanessa Volz;Diego Perez Liebana;Mike Preuss",2016
+"Mysterious Murder - MCTS-driven Murder Mystery Generation.","Corinna Jaschek;Tom Beckmann;Jaime Andres Garcia;William L. Raffe",2019
+"Monster Carlo: An MCTS-based Framework for Machine Playtesting Unity Games.","Oleksandra G. Keehl;Adam M. Smith 0001",2018
+"Opponent modeling based on action table for MCTS-based fighting game AI.","Man-Je Kim;Kyung-Joong Kim 0001",2017
+"Evaluating the Complexity of Players' Strategies using MCTS Iterations.","Pier Luca Lanzi",2019
+"Investigating vanilla MCTS scaling on the GVG-AI game corpus.","Mark J. Nelson",2016
+"Improving the Performance of MCTS-Based µRTS Agents Through Move Pruning.","Abdessamed Ouessai;Mohammed Salem;Antonio Mora García",2020
+"MCTS with influence map for general video game playing.","Hyun-Soo Park;Kyung-Joong Kim 0001",2015
+"Knowledge-based fast evolutionary MCTS for general video game playing.","Diego Perez Liebana;Spyridon Samothrakis;Simon M. Lucas",2014
+"Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates.","Dennis J. N. J. Soemers;Éric Piette;Matthew Stephenson;Cameron Browne",2019
+"Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms.","Maciej Swiechowski;Tomasz Tajmajer;Andrzej Janusz",2018
+"HiveMind: Learning to Play the Cooperative Chess Variant Bughouse with DNNs and MCTS.","Benjamin Woo;Penny Kyburz;Matthew Aitchison",2023
+"MCTS: A Multi-Reference Chinese Text Simplification Dataset.","Ruining Chong;Luming Lu;Liner Yang;Jinran Nie;Zhenghao Liu;Shuo Wang;Shuhan Zhou;Yaoxin Li;Erhong Yang",2024
+"Parametric action pre-selection for MCTS in real-time strategy games.","Abdessamed Ouessai;Mohammed Salem;Antonio Mora García",2020
+"Combining M-MCTS and Deep Reinforcement Learning for General Game Playing.","Sili Liang;Guifei Jiang;Yuzhi Zhang",2021
+"Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and MCTS.","Youbiao He;Hebi Li;Ge Luo 0002;Forrest Sheng Bao",2023
+"Superimposed Code-Based Indexing Method for Extracting MCTs from XML Documents.","Wenxin Liang;Takeshi Miki;Haruo Yokota",2008
+"Small and Large MCTS Playouts Applied to Chinese Dark Chess Stochastic Game.","Nicolas Jouandeau;Tristan Cazenave",2014
+"VOI-aware MCTS.","David Tolpin;Solomon Eyal Shimony",2012
+"SP-MCTS-based Intention Scheduling for BDI Agents.","Yuan Yao 0007;Brian Logan 0001;John Thangarajah",2014
+"MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder.","Guoliang He;Zak Singh;Eiko Yoneki",2023
+"Self-adaptive MCTS for General Video Game Playing.","Chiara F. Sironi;Jialin Liu 0001;Diego Perez Liebana;Raluca D. Gaina;Ivan Bravi;Simon M. Lucas;Mark H. M. Winands",2018
+"Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments.","Yiwei Zhang;Richard Zhao",2023
+"State similarity based Rapid Action Value Estimation for general game playing MCTS agents.","Tasos Papagiannis;Georgios Alexandridis;Andreas Stafylopatis",2022
+"Evolutionary learning of policies for MCTS simulations.","James Pettit;David P. Helmbold",2012
+"Automatic AI design by the use of MCTS for the game Dead-End.","Yue Ma;Suoju He;Junping Wang;Yiwen Fu;Zhiyuan Shi",2010
+"Novelty and MCTS.","Hendrik Baier;Michael Kaisers",2021
+"Monte Mario: platforming with MCTS.","Emil Juul Jacobsen;Rasmus Greve;Julian Togelius",2014
+"The Programming Game: Evaluating MCTS as an Alternative to GP for Symbolic Regression.","David Robert White;Shin Yoo;Jeremy Singer",2015
+"A Mapping Heuristic for Minimizing Message Latency in Massively Distributed MCTS.","Alonso Gragera;Vorapong Suppakitpaisarn",2016
+"Smart DAG Task Scheduling Based on MCTS Method of Multi-strategy Learning.","Lang Shu;Guanyan Pan;Bei Wang;Wenbing Peng;Minhui Fang;Yifei Chen;Fanding Huang;Songchen Li;Yuxia Cheng",2023
+"A Lock-free Algorithm for Parallel MCTS.","Sayyed Ali Mirsoleimani;H. Jaap van den Herik;Aske Plaat;J. A. M. Vermaseren",2018
+"Pipeline Pattern for Parallel MCTS.","Sayyed Ali Mirsoleimani;H. Jaap van den Herik;Aske Plaat;J. A. M. Vermaseren",2018
+"An Analysis of Virtual Loss in Parallel MCTS.","Sayyed Ali Mirsoleimani;Aske Plaat;H. Jaap van den Herik;J. A. M. Vermaseren",2017
+"A Hierarchy MCTS Algorithm for The Automated PCB Routing.","Cong Zhang;Huilin Jin;Jienan Chen;Jinkuan Zhu;Jinting Luo",2020
+"Wavefront-MCTS: multi-objective design space exploration of NoC architectures based on Monte Carlo tree search.","Yong Hu;Daniel Mueller-Gritschneder;Ulf Schlichtmann",2018
+"Towards MCTS for Creative Domains.","Cameron Browne",2011
+"MCTS-Based Robotic Exploration for Scene Graph Generation.","Fangbo Zhou;Huaping Liu 0001;Xinghang Li;Huailin Zhao",2021
+"MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans.","Sinisa Stekovic;Mahdi Rad;Friedrich Fraundorfer;Vincent Lepetit",2021
+"MCTSE: A Commerce Topic Faced P2P Search Engine for Mobile Devices.","Zhiyuan Fang;Jingchun Zhang;Lei Wang;Yu Zhou;Minghui Mo",2007
+"Collaboration using Mobile Technologies (MCTs): When is it essential?","Damon E. Campbell;Saonee Sarker;Joseph S. Valacich",2006
+"Learning to Search with MCTSnets.","Arthur Guez;Theophane Weber;Ioannis Antonoglou;Karen Simonyan;Oriol Vinyals;Daan Wierstra;Rémi Munos;David Silver",2018
+"Applying Gradient Boosting Trees and Stochastic Leaf Evaluation to MCTS on Hearthstone.","Tasos Papagiannis;Georgios Alexandridis;Andreas Stafylopatis",2020
+"Dynamic Difficulty Adjustment of Game AI by MCTS for the game Pac-Man.","Ya'nan Hao;Suoju He;Junping Wang;Xiao Liu;Jiajian Yang;Wan Huang",2010
+"Hierarchical MCTS for Scalable Multi-Vessel Multi-Float Systems.","Giovanni D'Urso;James Ju Heon Lee;Oscar Pizarro;Chanyeol Yoo;Robert Fitch",2021
+"Multi-Robot Region-of-Interest Reconstruction with Dec-MCTS.","Fouad Sukkar;Graeme Best;Chanyeol Yoo;Robert Fitch",2019
+"Markovian State and Action Abstractions for MDPs via Hierarchical MCTS.","Aijun Bai;Siddharth Srivastava 0001;Stuart Russell 0001",2016
+"A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta.","Hendrik Baier",2016
+"ME-MCTS: Online Generalization by Combining Multiple Value Estimators.","Hendrik Baier;Michael Kaisers",2021
+"MCTS-Minimax Hybrids with State Evaluations (Extended Abstract).","Hendrik Baier;Mark H. M. Winands",2018
+"Decentralized MCTS via Learned Teammate Models.","Aleksander Czechowski;Frans A. Oliehoek",2020
+"Sufficiency-Based Selection Strategy for MCTS.","Stefan Freyr Gudmundsson;Yngvi Björnsson",2013
+"Modifying MCTS for Human-Like General Video Game Playing.","Ahmed Khalifa 0001;Aaron Isaksen;Julian Togelius;Andrew Nealen",2016
+"Integrating Factorization Ranked Features in MCTS: An Experimental Study.","Chenjun Xiao;Martin Müller 0003",2016
+"An MCTS-based Adversarial Training Method for Image Recognition.","Yi-Ling Liu;Alessio Lomuscio",2019
+"Track, Stop, and Eliminate: an Algorithm to Solve Stochastic Orienteering Problems Using MCTS.","Carlos Diaz Alvarenga;Stefano Carpin",2023
+"An MCTS-DRL Based Obstacle and Occlusion Avoidance Methodology in Robotic Follow-Ahead Applications.","Sahar Leisiazar;Edward J. Park;Angelica Lim;Mo Chen",2023
+"List based soft-decision MIMO detection by the MCTS algorithm.","Xuebin Wu;Yongmei Dai;Zhiyuan Yan",2010
+"Smart DAG Task Scheduling with Efficient Pruning-Based MCTS Method.","Kui Liu;Zhiwei Wu;Qing Wu;Yuxia Cheng",2019
+"Region-of-interest streaming based on improved MCTS for high-definition panoramic videos.","Wenjie Zhang;Saiping Zhang;Fuzheng Yang",2017
+"MCTS-based Synthesis Towards Efficient Approximate Accelerators.","Muhammad Awais 0009;Marco Platzner",2021
+"Personalized Transaction Kernels for Recommendation Using MCTS.","Maryam Tavakol;Tobias Joppen;Ulf Brefeld;Johannes Fürnkranz",2019
+"PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding.","Antoine Chaffin;Vincent Claveau;Ewa Kijak",2022
+"On-the-Fly Model Checking with Neural MCTS.","Ruiyang Xu;Karl J. Lieberherr",2022
+"Spending Thinking Time Wisely: Accelerating MCTS with Virtual Expansions.","Weirui Ye;Pieter Abbeel;Yang Gao",2022
+"Adaptive Warm-Start MCTS in AlphaZero-Like Deep Reinforcement Learning.","Hui Wang 0053;Mike Preuss;Aske Plaat",2021
+"MCTS-Based Automated Negotiation Agent.","Cédric L. R. Buron;Zahia Guessoum;Sylvain Ductor",2019
+"An MCTS-Based Algorithm to Solve Sequential CFGs on Valuation Structures.","Tabajara Krausburg;Jürgen Dix;Rafael H. Bordini",2022
+"Hybrid Minimax-MCTS and Difficulty Adjustment for General Game Playing.","Marco Antônio Athayde de Aguiar Vieira;Anderson R. Tavares;Renato P. Ribas",2023
+"Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism.","Yuan Meng;Qian Wang;Tianxin Zu;Viktor K. Prasanna",2023
+"MCTS Based on Simple Rerget.","David Tolpin;Solomon Eyal Shimony",2012
+"Towards Understanding the Effects of Evolving the MCTS UCT Selection Policy.","Fred Valdez Ameneyro;Edgar Galván López",2022
+"On the Evolution of the MCTS Upper Confidence Bounds for Trees by Means of Evolutionary Algorithms in the Game of Carcassonne.","Edgar Galván López;Gavin Simpson",2021
+"Combining Utility AI and MCTS Towards Creating Intelligent Agents in Video Games, with the Use Case of Tactical Troops: Anthracite Shift.","Maciej Swiechowski;Daniel Lewinski;Rafal Tyl",2021
+"ADP with MCTS algorithm for Gomoku.","Zhentao Tang;Dongbin Zhao;Kun Shao;Le Lv",2016
+"A new MCTS-based algorithm for multi-objective flexible job shop scheduling problem.","Jen-Jai Chou;Chao-Chin Liang;Hung-Chun Wu;I-Chen Wu;Tung-Ying Wu",2015
+"Optimal Player Information MCTS applied to Chinese Dark Chess.","Nicolas Jouandeau",2015
+"Static and Dynamic Values of Computation in MCTS.","Eren Sezener;Peter Dayan",2020
+"An MCTS-based Framework for Synthesis of Approximate Circuits.","Muhammad Awais 0009;Hassan Ghasemzadeh Mohammadi;Marco Platzner",2018
+"DeepMCTS: Deep Reinforcement Learning Assisted Monte Carlo Tree Search for MIMO Detection.","Tz-Wei Mo;Ronald Y. Chang;Te-Yi Kan",2022
+"Cognitive Spectrum Scheduling Method for Internet of Vehicles Based on DNN and MCTS.","Xinyu Cui;Guifen Chen",2023
+"Computer Go Research Based on Variable Scale Training and PUB-PMCTS.","Jinhan Huang;Zhixing Huang;Shengcai Cen;Wurui Shi;Xiaoxiao Huang;Xueyun Chen",2024
+"SpecMCTS: Accelerating Monte Carlo Tree Search Using Speculative Tree Traversal.","Juhwan Kim;Byeongmin Kang;Hyungmin Cho",2021
+"MCTS: Multi-Channel Transmission Simultaneously Using Non-Feedback Fountain Code.","Jianhang Liu;Shuqing Wang;Shibao Li;Xue-rong Cui;Yan Pan;Ting Zhu",2018
+"Incorporating Online Learning Into MCTS-Based Intention Progression.","Chengcheng Song;Yuan Yao 0007;Sixian Chan",2024
+"Efficient Searching With MCTS and Imitation Learning: A Case Study in Pommerman.","Hailan Yang;Shengze Li;Xinhai Xu;Xunyun Liu;Zhuxuan Meng;Yongjun Zhang 0006",2021
+"An effective MCTS-based algorithm for minimizing makespan in dynamic flexible job shop scheduling problem.","Kexin Li;Qianwang Deng;Like Zhang;Qing Fan;Guiliang Gong;Sun Ding",2021
+"Strength Adjustment and Assessment for MCTS-Based Programs [Research Frontier].","An-Jen Liu;Ti-Rong Wu;I-Chen Wu;Hung Guei;Ting-Han Wei",2020
+"Performance analysis of a 240 thread tournament level MCTS Go program on the Intel Xeon Phi.","Sayyed Ali Mirsoleimani;Aske Plaat;J. A. M. Vermaseren;H. Jaap van den Herik",2014
+"MCTS Based on Simple Regret","David Tolpin;Solomon Eyal Shimony",2012
+"VOI-aware MCTS","David Tolpin;Solomon Eyal Shimony",2012
+"Combining Prediction of Human Decisions with ISMCTS in Imperfect Information Games.","Moshe Bitan;Sarit Kraus",2017
+"Learning to Search with MCTSnets.","Arthur Guez;Theophane Weber;Ioannis Antonoglou;Karen Simonyan;Oriol Vinyals;Daan Wierstra;Rémi Munos;David Silver",2018
+"Automated Playtesting with Procedural Personas through MCTS with Evolved Heuristics.","Christoffer Holmgård;Michael Cerny Green;Antonios Liapis;Julian Togelius",2018
+"Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms.","Maciej Swiechowski;Tomasz Tajmajer;Andrzej Janusz",2018
+"Biasing MCTS with Features for General Games.","Dennis J. N. J. Soemers;Éric Piette;Cameron Browne",2019
+"MCTS-based Automated Negotiation Agent (Extended Abstract).","Cédric L. R. Buron;Zahia Guessoum;Sylvain Ductor",2019
+"Safer Deep RL with Shallow MCTS: A Case Study in Pommerman.","Bilal Kartal;Pablo Hernandez-Leal;Chao Gao;Matthew E. Taylor",2019
+"Learning Policies from Self-Play with Policy Gradients and MCTS Value Estimates.","Dennis J. N. J. Soemers;Éric Piette;Matthew Stephenson;Cameron Browne",2019
+"Action Guidance with MCTS for Deep Reinforcement Learning.","Bilal Kartal;Pablo Hernandez-Leal;Matthew E. Taylor",2019
+"MCTS-based Automated Negotiation Agent.","Cédric L. R. Buron;Zahia Guessoum;Sylvain Ductor",2019
+"Stochastic Dispatch of Energy Storage in Microgrids: A Reinforcement Learning Approach Incorporated with MCTS.","Yuwei Shang;Wenchuan Wu;Jianbo Guo;Zhe Lv;Zhao Ma;Wanxing Sheng;Ran Chen",2019
+"Static and Dynamic Values of Computation in MCTS.","Eren Sezener;Peter Dayan",2020
+"Decentralized MCTS via Learned Teammate Models.","Aleksander Czechowski;Frans A. Oliehoek",2020
+"First-Order Problem Solving through Neural MCTS based Reinforcement Learning.","Ruiyang Xu;Prashank Kadam;Karl J. Lieberherr",2021
+"Solving QSAT problems with neural MCTS.","Ruiyang Xu;Karl J. Lieberherr",2021
+"MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans.","Sinisa Stekovic;Mahdi Rad;Friedrich Fraundorfer;Vincent Lepetit",2021
+"MCTSteg: A Monte Carlo Tree Search-based Reinforcement Learning Framework for Universal Non-additive Steganography.","Xianbo Mo;Shunquan Tan;Bin Li 0011;Jiwu Huang",2021
+"Adaptive Warm-Start MCTS in AlphaZero-like Deep Reinforcement Learning.","Hui Wang 0053;Mike Preuss;Aske Plaat",2021
+"Simplified Belief-Dependent Reward MCTS Planning with Guaranteed Tree Consistency.","Ori Sztyglic;Andrey Zhitnikov;Vadim Indelman",2021
+"Optimisation of MCTS Player for The Lord of the Rings: The Card Game.","Konrad Godlewski;Bartosz Sawicki",2021
+"MCTS Based Agents for Multistage Single-Player Card Game.","Konrad Godlewski;Bartosz Sawicki",2021
+"Generating texts under constraint through discriminator-guided MCTS.","Antoine Chaffin;Vincent Claveau;Ewa Kijak",2021
+"A Fast Evolutionary adaptation for MCTS in Pommerman.","Harsh Panwar;Saswata Chatterjee;Wil Dube",2021
+"On the Evolution of the MCTS Upper Confidence Bounds for Trees by Means of Evolutionary Algorithms in the Game of Carcassonne.","Edgar Galván López;Gavin Simpson",2021
+"MCTS with Refinement for Proposals Selection Games in Scene Understanding.","Sinisa Stekovic;Mahdi Rad;Alireza Moradi;Friedrich Fraundorfer;Vincent Lepetit",2022
+"Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne.","Edgar Galván López;Gavin Simpson;Fred Valdez Ameneyro",2022
+"Exploring Adaptive MCTS with TD Learning in miniXCOM.","Kimiya Saadat;Richard Zhao",2022
+"Spending Thinking Time Wisely: Accelerating MCTS with Virtual Expansions.","Weirui Ye;Pieter Abbeel;Yang Gao",2022
+"Towards Understanding the Effects of Evolving the MCTS UCT Selection Policy.","Fred Valdez Ameneyro;Edgar Galván López",2023
+"LBCIM: Loyalty Based Competitive Influence Maximization with epsilon-greedy MCTS strategy.","Malihe Alavi;Farnoush Manavi;Amirhossein Ansari;Ali Hamzeh",2023
+"MCTS-GEB: Monte Carlo Tree Search is a Good E-graph Builder.","Guoliang He;Zak Singh;Eiko Yoneki",2023
+"Dynamic Data Augmentation via MCTS for Prostate MRI Segmentation.","Xinyue Xu;Yuhan Hsi;Haonan Wang;Xiaomeng Li",2023
+"C-MCTS: Safe Planning with Monte Carlo Tree Search.","Dinesh Parthasarathy;Georgios D. Kontes;Axel Plinge;Christopher Mutschler",2023
+"MCTS: A Multi-Reference Chinese Text Simplification Dataset.","Ruining Chong;Luming Lu;Liner Yang;Jinran Nie;Shuhan Zhou;Yaoxin Li;Erhong Yang",2023
+"MCTS guided Genetic Algorithm for optimization of neural network weights.","Akshay Hebbar",2023
+"Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods.","Debraj Chakraborty 0002;Damien Busatto-Gaston;Jean-François Raskin;Guillermo A. Pérez 0001",2023
+"TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search.","Licheng Wen;Ze Fu;Pinlong Cai;Daocheng Fu;Song Mao;Botian Shi",2023
+"Update Monte Carlo tree search (UMCTS) algorithm for heuristic global search of sizing optimization problems for truss structures.","Fu-Yao Ko;Katsuyuki Suzuki;Kazuo Yonekura",2023
+"MBAPPE: MCTS-Built-Around Prediction for Planning Explicitly.","Raphaël Chekroun;Thomas Gilles;Marin Toromanoff;Sascha Hornauer;Fabien Moutarde",2023
+"Combined sizing and layout optimization of truss structures via update Monte Carlo tree search (UMCTS) algorithm.","Fu-Yao Ko;Katsuyuki Suzuki;Kazuo Yonekura",2023
+"LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement.","Haonan Chang;Kai Gao;Kowndinya Boyalakunta;Alex Lee;Baichuan Huang;Harish Udhaya Kumar;Jinjin Yu;Abdeslam Boularias",2023
+"An MCTS-DRL Based Obstacle and Occlusion Avoidance Methodology in Robotic Follow-Ahead Applications.","Sahar Leisiazar;Edward J. Park;Angelica Lim;Mo Chen",2023
+"Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism.","Yuan Meng;Qian Wang;Tianxin Zu;Viktor K. Prasanna",2023
+"Hybrid Minimax-MCTS and Difficulty Adjustment for General Game Playing.","Marco Antônio Athayde de Aguiar Vieira;Anderson R. Tavares;Renato P. Ribas",2023
+"An investigation of belief-free DRL and MCTS for inspection and maintenance planning.","Daniel Koutas;Elizabeth Bismut;Daniel Straub",2023
+"BalMCTS: Balancing Objective Function and Search Nodes in MCTS for Constraint Optimization Problems.","Yingkai Xiao;Jingjin Liu;Hankui Zhuo",2023
+"AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems.","Piyush Jha;Zhengyu Li 0002;Zhengyang Lu;Curtis Bright;Vijay Ganesh",2024
+"Checkmating One, by Using Many: Combining Mixture of Experts with MCTS to Improve in Chess.","Felix Helfenstein;Jannis Blüml;Johannes Czech;Kristian Kersting",2024
+"Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS.","Matthew DeLorenzo;Animesh Basak Chowdhury;Vasudev Gohil;Shailja Thakur;Ramesh Karri;Siddharth Garg;Jeyavijayan Rajendran",2024
+"Speeding Up Path Planning via Reinforcement Learning in MCTS for Automated Parking.","Xinlong Zheng;Xiaozhou Zhang;Donghao Xu",2024
+"ReZero: Boosting MCTS-based Algorithms by Just-in-Time and Speedy Reanalyze.","Chunyu Xuan;Yazhe Niu;Yuan Pu;Shuai Hu;Yu Liu;Jing Yang",2024
+"An Evolutionary Framework for Connect-4 as Test-Bed for Comparison of Advanced Minimax, Q-Learning and MCTS.","Henry Taylor;Leonardo Stella",2024
+"Evolving action pre-selection parameters for MCTS in real-time strategy games.","Abdessamed Ouessai;Mohammed Salem;Antonio Mora García",2022
+"Balancing MCTS by Dynamically Adjusting the Komi Value.","Petr Baudis",2011
+"A Self-Acquiring Knowledge Process for MCTS.","André Fabbri;Frédéric Armetta;Éric Duchêne;Salima Hassas",2016
+"Improvement of LMCTS Position Accuracy using DR-FNN Controller.","Jin Woo Lee;Jin-Ho Suh;Young Jin Lee;Kwon Soon Lee",2004
+"Dec-MCTS: Decentralized planning for multi-robot active perception.","Graeme Best;Oliver M. Cliff;Tim Patten;Ramgopal R. Mettu;Robert Fitch",2019
+"MCTS-Minimax Hybrids with State Evaluations.","Hendrik Baier;Mark H. M. Winands",2018
+"VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search.","Hiroaki Iwata;Taichi Nakai;Takuto Koyama;Shigeyuki Matsumoto;Ryosuke Kojima;Yasushi Okuno",2023
+"Dynamic Performance of MCTS under Inductive Load conditions.","Marian K. Kazimierczuk;Nandakumar Thirunarayan",1994
+"MCTS customer task environment.","R. R. Brown",1975
+"MCTS Nucleus: Philosophy and Praxis.","Ralph R. Brown",1976
+"The MCTS Operating System.","James L. Elshoff;Mitchel R. Ward",1976
+"HMCTS-OP: Hierarchical MCTS Based Online Planning in the Asymmetric Adversarial Environment.","Lina Lu;Wanpeng Zhang 0001;Xueqiang Gu;Xiang Ji;Jing Chen",2020
+"MCTS-Minimax Hybrids.","Hendrik Baier;Mark H. M. Winands",2015
+"EvoMCTS: A Scalable Approach for General Game Learning.","Amit Benbassat;Moshe Sipper",2014
+"Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-Inspired Evolutionary Algorithm in the Game of Carcassonne.","Edgar Galván López;Gavin Simpson;Fred Valdez Ameneyro",2023
+"Automated Playtesting With Procedural Personas Through MCTS With Evolved Heuristics.","Christoffer Holmgård;Michael Cerny Green;Antonios Liapis;Julian Togelius",2019
+"AlphaZero-Inspired Game Learning: Faster Training by Using MCTS Only at Test Time.","Johannes Scheiermann;Wolfgang Konen",2023
+"An analysis for strength improvement of an MCTS-based program playing Chinese dark chess.","Chu-Hsuan Hsueh;I-Chen Wu;Wen-Jie Tseng 0001;Shi-Jim Yen;Jr-Chang Chen",2016
+"MCTSteg: A Monte Carlo Tree Search-Based Reinforcement Learning Framework for Universal Non-Additive Steganography.","Xianbo Mo;Shunquan Tan;Bin Li 0011;Jiwu Huang",2021
+"An MCTS-Based Solution Approach to Solve Large-Scale Airline Crew Pairing Problems.","Yuewen Li;Xiaoling Wang;Qi Kang;Zheng Fan;Shuaiyu Yao",2023
+"A-MCTS: Adaptive Monte Carlo Tree Search for Temporal Path Discovery.","Pengfei Ding;Guanfeng Liu 0001;Yan Wang 0002;Kai Zheng 0001;Xiaofang Zhou 0001",2023
+"MCTS-Enhanced Hybrid Offloading for Aerial Multi-Access Edge Computing.","Jianwen Xu;Kaoru Ota;Mianxiong Dong;Huan Zhou 0002",2021
+"MCTS-based approximate accelerator synthesis.","Muhammad Awais 0009",2021
